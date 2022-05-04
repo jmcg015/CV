@@ -1,6 +1,9 @@
-## Your Name
+## Joe McGarry
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a highly driven, self-motivated, hardworking individual, with the ability to work well under pressure. 
+After graduating from university, I moved to Japan where I lived for a just under three years teaching English to a variety of age groups. I returned to England for a short while and gained experienced as a Business Development Manager before leaving to travel around New Zealand and Australia. I've since had customer-service based roles which have been both remotely online and in retail. 
+
+I am currently enrolled in Makers Academy, a 16 week software development bootcamp, to become a full-stack developer. 
 
 ## Projects
 
