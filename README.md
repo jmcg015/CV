@@ -3,7 +3,7 @@
 I am a highly driven, self-motivated, hardworking individual, with the ability to work well under pressure. 
 After graduating from university, I moved to Japan where I lived for a just under three years teaching English to a variety of age groups. I returned to England for a short while and gained experienced as a Business Development Manager before leaving to travel around New Zealand and Australia. I've since had customer-service based roles which have been both remotely online and in retail. 
 
-I am currently enrolled in Makers Academy, a 16 week software development bootcamp, to become a full-stack developer. 
+I am currently enrolled in Makers Academy, a 12 week software development bootcamp, to become a full-stack developer. 
 
 ## Projects
 
@@ -56,7 +56,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May 2022 - Present)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -65,11 +65,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Birmingham (October 2010 - July 2014)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- B.A Honours French Studies, 2:1
+- I attained a 2:1 degree over the four years which included a year studying at a French university in Montpellier, France. Modules varied from the French language to French business, economics, history and culture. 
 
 #### Any other qualifications
 
@@ -77,4 +76,6 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+**General fitness** I enjoy doing a variety of workouts throughout the week, from strength-focused weight sessions, to HIIT sessions or yoga. 
+**Snowboarding/Skiing** I love to hit the slopes, I'm a better skiier but am slowly getting better at snowboarding.
+**Travel** Learning new languages, cultures and seeing different parts of the world is always an exciting adventure.
