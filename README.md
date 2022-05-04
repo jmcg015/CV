@@ -132,9 +132,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Took an additional module in beginner's Spanish.
 - Played on the University's American Football team during my first year, and was part of the ninjutsu club in my final year.
 
-#### Any other qualifications
+#### Other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+TEFL qualified
 
 ## Hobbies
 
