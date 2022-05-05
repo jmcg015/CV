@@ -71,6 +71,8 @@ _Retail Assistant, UK_
 
 - Ensured deliveries were put away in a timely and safe manner.
 
+- Was the Wellbeing Champion for the store from February, being responsible for assisting colleagues with personal issues and advising them on who they can talk to for professional help. 
+
 **Advantage Labour** (Nov 2019 - Feb 2020)
 _Farm Hand, AUS_
 - Had the opportunity to work on various farms in a variety of roles from packing vegetables to washing and mixing raisins as well as irrigation work.
@@ -86,33 +88,14 @@ _Housekeeper, USA_
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+**Quick learner**
 
--STAR
--What was the situation/task? (ST)
+I am a quick learner and always eager to learn new things. When I lived in Japan, I taught myself Japanese in my free time using a variety of books and language exchanges. I have also taught myself how to use the Adobe Suite through online courses and tutorials.
 
--How was the skill used?
+**Attention to detail**
+During my time teaching English, I had to identify grammar, spelling or any other mistakes by students in order to explain why it was incorrect and encourage the students to think of the solution using what they knew about the English language. 
 
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+My role at Auckland Council also required me to be accurate when lodging the building consent forms. This included ensuring the correct plot of land had been selected in the application form and within the system, that customer details were correct and that the payment had been made and allocated to that application. I also trained the team on correct procedures prior to leaving.  
 
 ## Education
 
@@ -132,9 +115,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Took an additional module in beginner's Spanish.
 - Played on the University's American Football team during my first year, and was part of the ninjutsu club in my final year.
 
-#### Other qualifications
+#### Other qualifications and skills
 
-TEFL qualified
+- TEFL qualified
+- Intermediate French and conversational Japanese
+- Can use the Adobe Suite
 
 ## Hobbies
 
