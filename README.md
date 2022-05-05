@@ -12,6 +12,17 @@ I am currently enrolled in Makers Academy, a 12 week software development bootca
 | **[Student Directory](https://github.com/jmcg015/student-directory)**            | A command line script to manage students | Ruby |
 | **[clmystery](https://github.com/jmcg015/clmystery)** | A command-line detective task to learn the command line and git | Command Line, Git              |
 
+## Skills
+
+**Quick learner**
+
+I am a quick learner and always eager to learn new things. When I lived in Japan, I taught myself Japanese in my free time using a variety of books and language exchanges. I have also taught myself how to use the Adobe Suite through online courses and tutorials.
+
+**Attention to detail**
+During my time teaching English, I had to identify grammar, spelling or any other mistakes by students in order to explain why it was incorrect and encourage the students to think of the solution using what they knew about the English language. 
+
+My role at Auckland Council also required me to be accurate when lodging the building consent forms. This included ensuring the correct plot of land had been selected in the application form and within the system, that customer details were correct and that the payment had been made and allocated to that application. I also trained the team on correct procedures prior to leaving.  
+
 ## Work Experience
 ### Office Experience
 
@@ -85,17 +96,6 @@ _Housekeeper, USA_
 -  Cleaned all rooms in a timely, efficient manner in order for guests to have a seamless check-in.  
 
 - Arranged and organised breakfast for guests and answered any queries the guests had about their visit as well as recommending activities in the area.   
-
-## Skills
-
-**Quick learner**
-
-I am a quick learner and always eager to learn new things. When I lived in Japan, I taught myself Japanese in my free time using a variety of books and language exchanges. I have also taught myself how to use the Adobe Suite through online courses and tutorials.
-
-**Attention to detail**
-During my time teaching English, I had to identify grammar, spelling or any other mistakes by students in order to explain why it was incorrect and encourage the students to think of the solution using what they knew about the English language. 
-
-My role at Auckland Council also required me to be accurate when lodging the building consent forms. This included ensuring the correct plot of land had been selected in the application form and within the system, that customer details were correct and that the payment had been made and allocated to that application. I also trained the team on correct procedures prior to leaving.  
 
 ## Education
 
