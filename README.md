@@ -9,8 +9,8 @@ I am currently enrolled in Makers Academy, a 12 week software development bootca
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **[Student Directory](https://github.com/jmcg015/student-directory)**            | A command line script to manage students | Ruby |
+| **[clmystery](https://github.com/jmcg015/clmystery)** | A command-line detective task to learn the command line and git | Command Line, Git              |
 
 ## Work Experience
 ### Office Experience
