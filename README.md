@@ -3,14 +3,38 @@
 I am a highly driven, self-motivated, hardworking individual, with the ability to work well under pressure. 
 After graduating from university, I moved to Japan where I lived for a just under three years teaching English to a variety of age groups. I returned to England for a short while and gained experienced as a Business Development Manager before leaving to travel around New Zealand and Australia. I've since had customer-service based roles which have been both remotely online and in retail. 
 
-I am currently enrolled in Makers Academy, a 12 week software development bootcamp, to become a full-stack developer. 
+I am currently enrolled in Makers Academy, a 12 week software development bootcamp, to become a full-stack developer, with the course expected to end in August 2022. 
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Student Directory](https://github.com/jmcg015/student-directory)**            | A command line script to manage students | Ruby |
-| **[clmystery](https://github.com/jmcg015/clmystery)** | A command-line detective task to learn the command line and git | Command Line, Git              |
+| **[Rock, Paper, Scissors](https://github.com/jmcg015/rps-challenge)**            | A simple rock, paper, scissors web application | Ruby, Sinatra, HTML, CSS, RSpec, Capybara |
+| **[MakersBnB](https://github.com/sophiegilder/MakersBnB)** | Our first group project, a web application for users to list and book properties to stay in | Ruby, PostgreSQL, HTML, CSS, RSpec, Capybara |
+
+## Education
+
+#### Makers Academy (May 2022 - Present)
+- An intensive coding bootcamp with a fullstack development focus. I have gained the following skills so far:
+- OOP, TDD, MVC
+- Agile
+- Ruby, JavaScript
+- Postgresql 
+- RSpec, Capyabra, Sinatra
+- CLI, git
+
+#### University of Birmingham (October 2010 - July 2014)
+
+- B.A Honours French Studies, 2:1
+- Attained a 2:1 degree over the four years which included a year studying at a French university in Montpellier, France. Modules varied from the French language to French business, economics, history and culture. 
+- Took an additional module in beginner's Spanish.
+- Played on the University's American Football team during my first year, and was part of the ninjutsu club in my final year.
+
+#### Other qualifications and skills
+
+- TEFL qualified
+- Intermediate French and conversational Japanese
+- Can use the Adobe Suite
 
 ## Skills
 
@@ -96,30 +120,6 @@ _Housekeeper, USA_
 -  Cleaned all rooms in a timely, efficient manner in order for guests to have a seamless check-in.  
 
 - Arranged and organised breakfast for guests and answered any queries the guests had about their visit as well as recommending activities in the area.   
-
-## Education
-
-#### Makers Academy (May 2022 - Present)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### University of Birmingham (October 2010 - July 2014)
-
-- B.A Honours French Studies, 2:1
-- Attained a 2:1 degree over the four years which included a year studying at a French university in Montpellier, France. Modules varied from the French language to French business, economics, history and culture. 
-- Took an additional module in beginner's Spanish.
-- Played on the University's American Football team during my first year, and was part of the ninjutsu club in my final year.
-
-#### Other qualifications and skills
-
-- TEFL qualified
-- Intermediate French and conversational Japanese
-- Can use the Adobe Suite
 
 ## Hobbies
 
