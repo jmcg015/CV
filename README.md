@@ -5,12 +5,16 @@ After graduating from university, I moved to Japan where I lived for a just unde
 
 I am currently enrolled in Makers Academy, a 12 week software development bootcamp, to become a full-stack developer, with the course expected to end in August 2022. 
 
+I blogged about my journey at Makers [here](https://medium.com/@joewmcgarry)
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[Rock, Paper, Scissors](https://github.com/jmcg015/rps-challenge)**            | A simple rock, paper, scissors web application | Ruby, Sinatra, HTML, CSS, RSpec, Capybara |
 | **[MakersBnB](https://github.com/sophiegilder/MakersBnB)** | Our first group project, a web application for users to list and book properties to stay in | Ruby, PostgreSQL, HTML, CSS, RSpec, Capybara |
+| **[Acebook Group Project](https://github.com/PatrickReynoldsCoding/the-fakebook)** | A clone of Facebook made with a group of six people | JavaScript, Mongoose, HTML/CSS, Handlebars, a dash of React.js |
+| **[Bowling Challenge](https://github.com/jmcg015/bowling-challenge)** | A CLI bowling scorecard made using JavaScript/Node | JavaScript |
 
 ## Education
 
