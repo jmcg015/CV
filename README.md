@@ -3,7 +3,7 @@
 I am a highly driven, self-motivated, hardworking individual, with the ability to work well under pressure. 
 After graduating from university, I moved to Japan where I lived for a just under three years teaching English to a variety of age groups. I returned to England for a short while and gained experienced as a Business Development Manager before leaving to travel around New Zealand and Australia. I've since had customer-service based roles which have been both remotely online and in retail. 
 
-I am currently enrolled in Makers Academy, a 12 week software development bootcamp, to become a full-stack developer, with the course expected to end in August 2022. 
+I have recently completed the Makers Academy bootcamp, a 16 week, intensive software development course and have gained skills to become a full-stack developer. 
 
 I blogged about my journey at Makers [here](https://medium.com/@joewmcgarry)
 
@@ -11,20 +11,21 @@ I blogged about my journey at Makers [here](https://medium.com/@joewmcgarry)
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Rock, Paper, Scissors](https://github.com/jmcg015/rps-challenge)**            | A simple rock, paper, scissors web application | Ruby, Sinatra, HTML, CSS, RSpec, Capybara |
-| **[MakersBnB](https://github.com/sophiegilder/MakersBnB)** | Our first group project, a web application for users to list and book properties to stay in | Ruby, PostgreSQL, HTML, CSS, RSpec, Capybara |
+| **[Beach Life](https://github.com/jmcg015/beach-life)** | Our final project at Makers. A web application that helps users locate their nearest beach in England and provides weather and tide information | MongoDB (Atlas), Mongoose, ReactJS, Nodejs, Express |
 | **[Acebook Group Project](https://github.com/PatrickReynoldsCoding/the-fakebook)** | A clone of Facebook made with a group of six people | JavaScript, Mongoose, HTML/CSS, Handlebars, a dash of React.js |
 | **[Bowling Challenge](https://github.com/jmcg015/bowling-challenge)** | A CLI bowling scorecard made using JavaScript/Node | JavaScript |
+| **[MakersBnB](https://github.com/sophiegilder/MakersBnB)** | Our first group project, a web application for users to list and book properties to stay in | Ruby, PostgreSQL, HTML, CSS, RSpec, Capybara |
+| **[Rock, Paper, Scissors](https://github.com/jmcg015/rps-challenge)** | A simple rock, paper, scissors web application | Ruby, Sinatra, HTML, CSS, RSpec, Capybara |
 
 ## Education
 
-#### Makers Academy (May 2022 - Present)
+#### Makers Academy (May 2022 - Aug 2022)
 - An intensive coding bootcamp with a fullstack development focus. I have gained the following skills so far:
 - OOP, TDD, MVC
 - Agile
-- Ruby, JavaScript
-- Postgresql 
-- RSpec, Capyabra, Sinatra
+- Ruby, JavaScript (Node, Express, ReactJS)
+- Postgresql, MongoDB (Atlas and Mongoose) 
+- RSpec, Capyabra, Sinatra, Jest, Cypress
 - CLI, git
 
 #### University of Birmingham (October 2010 - July 2014)
@@ -43,8 +44,10 @@ I blogged about my journey at Makers [here](https://medium.com/@joewmcgarry)
 ## Skills
 
 **Quick learner**
+I am a quick learner and always eager to learn new things. When I lived in Japan, I taught myself Japanese in my free time using a variety of books and language exchanges. I have also taught myself how to use the Adobe Suite through online courses and tutorials. During my time at Makers, I picked up new languages and concepts quickly that allowed me to complete the tasks set.
 
-I am a quick learner and always eager to learn new things. When I lived in Japan, I taught myself Japanese in my free time using a variety of books and language exchanges. I have also taught myself how to use the Adobe Suite through online courses and tutorials.
+**Team Player**
+Throughout the Makers from pairing to the numerous group projects, I have was able to work effectively and efficiently in the allocated teams. Using Agile philosophy, we made the projects fun, challenging and incredibly rewarding ensuring the workload was spread evenly amongst the team members. 
 
 **Attention to detail**
 During my time teaching English, I had to identify grammar, spelling or any other mistakes by students in order to explain why it was incorrect and encourage the students to think of the solution using what they knew about the English language. 
@@ -111,19 +114,6 @@ _Retail Assistant, UK_
 - Ensured deliveries were put away in a timely and safe manner.
 
 - Was the Wellbeing Champion for the store from February, being responsible for assisting colleagues with personal issues and advising them on who they can talk to for professional help. 
-
-**Advantage Labour** (Nov 2019 - Feb 2020)
-_Farm Hand, AUS_
-- Had the opportunity to work on various farms in a variety of roles from packing vegetables to washing and mixing raisins as well as irrigation work.
-
-- Used pallet loaders in warehouses, drove tractors on farms, and other duties as assigned adhering to health and safety standards.
-
-**Hotel Vista del Mar** (June 2012 - September 2012)
-_Housekeeper, USA_
-
--  Cleaned all rooms in a timely, efficient manner in order for guests to have a seamless check-in.  
-
-- Arranged and organised breakfast for guests and answered any queries the guests had about their visit as well as recommending activities in the area.   
 
 ## Hobbies
 
