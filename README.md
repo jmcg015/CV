@@ -11,11 +11,11 @@ I blogged about my journey at Makers [here](https://medium.com/@joewmcgarry)
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Beach Life](https://github.com/jmcg015/beach-life)** | Our final project at Makers. A web application that helps users locate their nearest beach in England and provides weather and tide information | MongoDB (Atlas), Mongoose, ReactJS, Nodejs, Express |
+| **[Beach Life](https://github.com/joe-mcgarry/beach-life)** | Our final project at Makers. A web application that helps users locate their nearest beach in England and provides weather and tide information | MongoDB (Atlas), Mongoose, ReactJS, Nodejs, Express |
 | **[Acebook Group Project](https://github.com/PatrickReynoldsCoding/the-fakebook)** | A clone of Facebook made with a group of six people | JavaScript, Mongoose, HTML/CSS, Handlebars, a dash of React.js |
-| **[Bowling Challenge](https://github.com/jmcg015/bowling-challenge)** | A CLI bowling scorecard made using JavaScript/Node | JavaScript |
-| **[MakersBnB](https://github.com/sophiegilder/MakersBnB)** | Our first group project, a web application for users to list and book properties to stay in | Ruby, PostgreSQL, HTML, CSS, RSpec, Capybara |
-| **[Rock, Paper, Scissors](https://github.com/jmcg015/rps-challenge)** | A simple rock, paper, scissors web application | Ruby, Sinatra, HTML, CSS, RSpec, Capybara |
+| **[Bowling Challenge](https://github.com/joe-mcgarry/bowling-challenge)** | A CLI bowling scorecard made using JavaScript/Node | JavaScript |
+| **[MakersBnB](https://github.com/joe-mcgarry/CV)** | Our first group project, a web application for users to list and book properties to stay in | Ruby, PostgreSQL, HTML, CSS, RSpec, Capybara |
+| **[Bank Tech Test](https://github.com/joe-mcgarry/bank-tech-test)** | A simulation of a bank to handle accounts, depositing, withdrawing and printing statements | Nodejs, JavaScript |
 
 ## Education
 
