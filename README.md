@@ -1,5 +1,7 @@
 ## Joe McGarry
 
+[Projects](#projects) | [Education](#education) | [Skills](#skills) | [Hobbies](#hobbies)
+
 I am a highly driven, self-motivated, hardworking individual, with the ability to work well under pressure. 
 After graduating from university, I moved to Japan where I lived for a just under three years teaching English to a variety of age groups. I returned to England for a short while and gained experienced as a Business Development Manager before leaving to travel around New Zealand and Australia. I've since had customer-service based roles which have been both remotely online and in retail. 
 
@@ -20,13 +22,13 @@ I blogged about my journey at Makers [here](https://medium.com/@joewmcgarry)
 ## Education
 
 #### Makers Academy (May 2022 - Aug 2022)
-- An intensive coding bootcamp with a fullstack development focus. I have gained the following skills so far:
-- OOP, TDD, MVC
-- Agile
-- Ruby, JavaScript (Node, Express, ReactJS)
-- Postgresql, MongoDB (Atlas and Mongoose) 
-- RSpec, Capyabra, Sinatra, Jest, Cypress
-- CLI, git
+- An intensive coding bootcamp with a fullstack development focus. I have learned a lot, including:
+- Learning best practices for object oriented programming, including designing and planning classes and applications
+- Testing - from unit tests to integration and feature tests
+- Ruby (Rails, Sinatra, RSpec, Capybara)
+- JavaScript (Node.js, Express, React, Jest, Cypress, Mongoose)
+- Postgresql, MongoDB
+- Mentor to 2 people currently in Makers
 
 #### University of Birmingham (October 2010 - July 2014)
 
@@ -117,8 +119,12 @@ _Retail Assistant, UK_
 
 ## Hobbies
 
-**General fitness** I enjoy doing a variety of workouts throughout the week, from strength-focused weight sessions, to HIIT sessions or yoga. 
+**General fitness** I enjoy doing a variety of workouts throughout the week, from strength-focused weight sessions, to HIIT sessions or yoga. I also love skiing and snowboarding when I get the opportunity.  
 
-**Snowboarding/Skiing** I love to hit the slopes, I'm a better skiier but am slowly getting better at snowboarding.
+**Travel** Learning new languages, cultures and seeing different parts of the world is always an exciting adventure. I can speak French, Japanese as well as beginner Spanish, Dutch (which I'm currently learning) and even some Te Reo Māori.
 
-**Travel** Learning new languages, cultures and seeing different parts of the world is always an exciting adventure.
+**Reading and writing** I love to read both fiction and non-fiction. My all-time favourite books are *The Lord of the Rings* by J.R.R Tolkien and *Gates of Fire* by Steven Pressfield. I also enjoy creative writing, as well as writing on my [blog](https://medium.com/@joewmcgarry)
+
+**Gaming** I have enjoyed playing various games since I was a child, some of my favourites are *Crash Bandicoot*, *Mass Effect*, *StarCraft II* and I'm currently enjoying *Guild Wars 2*. 
+
+**Music** Despite not having much musical talent, I am currently teaching myself to play the guitar which is something I have wanted to do for a long time. 
