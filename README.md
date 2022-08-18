@@ -24,6 +24,7 @@ I blogged about my journey at Makers [here](https://medium.com/@joewmcgarry)
 #### Makers Academy (May 2022 - Aug 2022)
 - An intensive coding bootcamp with a fullstack development focus. I have learned a lot, including:
 - Learning best practices for object oriented programming, including designing and planning classes and applications
+- Pair programming - working together to get the job done
 - Testing - from unit tests to integration and feature tests
 - Ruby (Rails, Sinatra, RSpec, Capybara)
 - JavaScript (Node.js, Express, React, Jest, Cypress, Mongoose)
