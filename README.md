@@ -15,9 +15,11 @@ I blogged about my journey at Makers [here](https://medium.com/@joewmcgarry)
 | ---------------------------- | ----------------- | ----------------- |
 | **[Beach Finder](https://github.com/joe-mcgarry/beach-life)** | Our final project at Makers. A web application that helps users locate their nearest beach in England and provides weather and tide information | MongoDB (Atlas), Mongoose, ReactJS, Nodejs, Express |
 | **[Acebook Group Project](https://github.com/PatrickReynoldsCoding/the-fakebook)** | A clone of Facebook made with a group of six people | JavaScript, Mongoose, HTML/CSS, Handlebars, a dash of React.js |
-| **[Bowling Challenge](https://github.com/joe-mcgarry/bowling-challenge)** | A CLI bowling scorecard made using JavaScript/Node | JavaScript |
+| **[Spotify Time Machine](https://github.com/joe-mcgarry/Python_100_Days_Of_Code/tree/main/Day46%20-%20Time%20Machine)** | A Python script which creates a playlist on your Spotify account for a given date | Python, Spotify API |
 | **[MakersBnB](https://github.com/sophiechannon/MakersBnB)** | Our first group project, a web application for users to list and book properties to stay in | Ruby, PostgreSQL, HTML, CSS, RSpec, Capybara |
 | **[Bank Tech Test](https://github.com/joe-mcgarry/bank-tech-test)** | A simulation of a bank to handle accounts, depositing, withdrawing and printing statements | Nodejs, JavaScript |
+
+See more of my projects [here](https://github.com/joe-mcgarry?tab=repositories)
 
 ## Education
 
@@ -58,7 +60,11 @@ Throughout the Makers from pairing to the numerous group projects, I was able to
 
 During my time teaching English, I had to identify grammar, spelling or any other mistakes by students in order to explain why it was incorrect and encourage the students to think of the solution using what they knew about the English language. 
 
-My role at Auckland Council also required me to be accurate when lodging the building consent forms. This included ensuring the correct plot of land had been selected in the application form and within the system, that customer details were correct and that the payment had been made and allocated to that application. I also trained the team on correct procedures prior to leaving.  
+My role at Auckland Council also required me to be accurate when lodging the building consent forms. This included ensuring the correct plot of land had been selected in the application form and within the system, that customer details were correct and that the payment had been made and allocated to that application. I also trained the team on correct procedures prior to leaving. 
+
+**Teaching** 
+
+I enjoyed role teaching children English, which was very challenging it was equally rewarding especially seeing them perform a play on stage making the year's hard work well worth it and something I would for a number of years. During my time at Auckland Council, before I left I spent a month training the team on the correct procedures for lodging building consents. At Makers, I utilised this skill to help fellow cohort members to understand both of our understanding of concepts during pair programming sessions. 
 
 ## Work Experience
 ### Office Experience
