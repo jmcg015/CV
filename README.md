@@ -5,7 +5,7 @@
 I am a highly driven, self-motivated, hardworking individual, with the ability to work well under pressure. 
 After graduating from university, I moved to Japan where I lived for a just under three years teaching English to a variety of age groups. I returned to England for a short while and gained experienced as a Business Development Manager before leaving to travel around New Zealand and Australia. I've since had customer-service based roles which have been both remotely online and in retail. 
 
-I have recently completed the Makers Academy bootcamp, a 16 week, intensive software development course and have gained skills to become a full-stack developer. 
+I have recently completed the Makers Academy bootcamp, a 16 week, intensive software development course and have gained skills to become a full-stack developer. I am doing this because I have always been interested in coding and want the creativity and flexibility the role provides. 
 
 I blogged about my journey at Makers [here](https://medium.com/@joewmcgarry)
 
