@@ -25,13 +25,11 @@ See more of my projects [here](https://github.com/joe-mcgarry?tab=repositories)
 
 #### Makers Academy (May 2022 - Aug 2022)
 - An intensive coding bootcamp with a fullstack development focus. I have learned a lot, including:
-- Learning best practices for object oriented programming, including designing and planning classes and applications
-- Pair programming - working together to get the job done
-- Testing - from unit tests to integration and feature tests
-- Ruby (Rails, Sinatra, RSpec, Capybara)
-- JavaScript (Node.js, Express, React, Jest, Cypress, Mongoose)
-- Postgresql, MongoDB, SQLite3
-- Mentor to 2 people currently in Makers
+- Learning best practices for object oriented programming, including designing and planning classes and applications such as building a Takeaway or Bank command-line application.
+- Test Driven Development was a core aspect from the first week, from unit testing with RSpec and Jest through to end-to-end testing with Cypress and Capybara
+- Pair programming was introduced from Day One and was crucial when it came to group projects in order to implement new frameworks such as React, or to understand third-party APIs, as well as sharing and cementing knowledge
+- Code Reviews helped to enforce good coding practices from planning, naming conventions and testing
+- I am a mentor for two people in other cohorts which is incredibly rewarding to share my experience of the course
 
 #### University of Birmingham (October 2010 - July 2014)
 
@@ -72,49 +70,38 @@ I enjoyed role teaching children English, which was very challenging it was equa
 #### **RapidRTC** (June 2021 - October 2021)  
 _Online Chat Agent, UK_
 
-- Handled multiple online web chats with different customers to assist and direct them with their queries.
+- Handled multiple online web chats with different customers to assist and direct them to the right department in a timely manner.
 
 #### **Anywhere Works** (September 2020 - February 2021)  
 _CX Associate, UK_
 
-- Answered calls on behalf of various clients and assisted callers with booking appointments, sending messages or transferring callers.
+- Answered calls on behalf of various clients and assisted callers with booking appointments, sending messages or transferring callers to the relevant teams to assist further.
 
 #### **Auckland Council** (January 2019 - October 2019)  
 _Regulatory Support Officer, NZ_
 
-- Used SAP CRM to create and edit building consent application shells.
-
-- Verified RFI start/end dates and correspondence are correct prior to audits. 
-
-- Created daily reports using Excel. 
-
-- Contacted customers for additional information if necessary. 
-
-- Began the refund process for rejected applications. 
+- Verified RFI start/end dates and correspondence were correct prior to audits.
+- Created daily reports using Excel for Team Leaders to distribute the day’s workload.
+- Contacted customers for additional information if necessary to ensure a smooth application process
+- Began the refund process for rejected applications in order for money to be returned quickly.
 
 #### **Thinking Software** (February 2018 - September 2018)  
 _Business Development Manager, UK_
 
-- Responsible for bringing a  newly released product to market.  
+- Created and maintained relationships with end users, installers and manufacturers to bring in new leads and sales for their new product.
+- Designed marketing brochures, banners, business cards and other marketing tools for use in email campaigns, newsletters, social media and for use at exhibitions
 
-- Created and maintained relationships with end users, installers and manufacturers to bring in new leads and sales for their new product. 
-
-- Designed marketing brochures, banners, business cards and other marketing tools using the Adobe Suite. 
 
 ### Teaching Experience
 #### **Model Language Studios** (October 2015 - August 2017)
 _English Instructor, JP_
 
-- Taught English to young learners using drama. 
-
-- Taught primary school children a play in English, which they performed on stage. 
+- Taught English to young learners using drama who performed a play in English on stage
 
 #### **Nova Holdings** (November 2014 - October 2015)
 _English Instructor, JP_
 
-- Taught English to students of various ages, for various reasons (business, travel, exam preparation).
-
-- Advised students on specific courses to take that best met their needs.
+- Taught English to students of various ages, for various reasons (business, travel, exam preparation) and advised on courses that best met their learning needs
 
 ### Other Experience
 #### **Argos** (October 2021 - May 2022)
